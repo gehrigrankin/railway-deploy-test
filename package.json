@@ -1,4 +1,5 @@
 {
+  "homepage": "railway-deploy-test-production.up.railway.app",
   "name": "railway-deploy-test",
   "version": "0.1.0",
   "private": true,
